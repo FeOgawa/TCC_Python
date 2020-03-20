@@ -1,0 +1,3 @@
+
+pip install pade
+pip install aiml
